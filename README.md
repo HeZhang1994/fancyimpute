@@ -3,7 +3,7 @@
 
 # fancyimpute
 
-A variety of matrix completion and imputation algorithms implemented in Python.
+A variety of matrix completion and imputation algorithms implemented in Python. 20190522
 
 ## Usage
 
